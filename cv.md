@@ -52,3 +52,9 @@ ___
  - Self-education
 
 ---
+
+### Languages
+
+ - Belarusian - Native
+ - Russian - Native
+ - English - A2
